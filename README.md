@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <div align="center">
 <a href="https://t.me/jefersonpatricio" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> &nbsp &nbsp &nbsp
  <a href = "mailto:contatojefersonpatr@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> &nbsp &nbsp &nbsp
-<a href = "https://www.linkedin.com/in/jeferson-patricio/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href = "https://www.linkedin.com/in/jefersonpatricio/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
   
 ![Snake animation](https://github.com/Jefersonpatricio/Jefersonpatricio/blob/output/github-contribution-grid-snake.svg)
