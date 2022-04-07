@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on personal project (portfolio site)
-- 🌱 I’m currently learning Full stack development
+- 🌱 I’m currently learning Full stack development at Digital House
 - 😄 Pronouns: He/Him
 ##
 <div align="center">
