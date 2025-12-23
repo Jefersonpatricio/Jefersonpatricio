@@ -2,7 +2,7 @@
 Sou um entusiasta de tecnologia e estudante de Engenharia de Software. Atualmente, foco em construir aplicações eficientes e aprender sobre arquitetura de sistemas.
 
 - 🔭 Atualmente trabalhando na **Witek**.
-- 🌱 Aprofundando conhecimentos em **Engenharia de Software**.
+- 🌱 Aprofundando conhecimentos em **Engenharia de Software** na Uninter.
 - 💬 Pergunte-me sobre **JavaScript, Web Development e boas práticas**.
 
 ## 🛠️ Tecnologias e Ferramentas
